@@ -32,3 +32,6 @@ cacheSolve <- function(x, ...) {
     
     inv
 }
+git add cachematrix.R
+git commit -m "Completed Programming Assignment 2"
+git push origin main
